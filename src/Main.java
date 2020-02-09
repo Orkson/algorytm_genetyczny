@@ -126,6 +126,7 @@ public class Main {
 
         }
         System.out.println("Suma: " + suma3);
+        System.out.println("Suma: tego i tamreo ");
 
 
 
